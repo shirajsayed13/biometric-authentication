@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BiometricAuthentication</string>
+    <string name="instructions">Result Type for Authentication</string>
+    <string name="cancel">Cancel</string>
+    <string name="fingerprint_image">FingerPrint_Image</string>
+    <string name="not_recognized">FingerPrint Not Recognized</string>
+    <string name="help_required">Authentication Help Required</string>
+    <string name="error">Authentication Error</string>
+    <string name="success">Authentication Successful</string>
+    <string name="header">Biometric Authentication</string>
+</resources>
