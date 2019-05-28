@@ -36,6 +36,9 @@ import javax.crypto.KeyGenerator;
 import javax.crypto.NoSuchPaddingException;
 import javax.crypto.SecretKey;
 
+/**
+ * @author Shiraj Sayed
+ */
 public class MainActivity extends AppCompatActivity implements AuthListener {
 
     private static final String KEY_NAME = "authKey";
